@@ -4,4 +4,4 @@
 ...
 
 ## Dependencies
-1. kegg_tools v0.1
+1. kegg_tools Release v0.1 ; link: https://github.com/nkylilis/kegg_tools/tags 
