@@ -1,0 +1,25 @@
+Pathway	mass fraction	Level_A	Pathway name
+unmapped (no kid)	0.040855366884999994	unmapped (no kid)	unmapped (no kid)  |  N/A
+kid mapped (not Pathway of Brite)	0.049537929775	kid mapped (not Pathway of Brite)	kid mapped (not Pathway of Brite)  |  N/A
+Brite Hierarhies mapped (not Pathway)	0.20028882599387	Brite Hierarhies mapped (not Pathway)	Brite Hierarhies mapped (not Pathway)  |  N/A
+9122	0.17851646806	9120	Genetic Information Processing  |  Translation
+9105	0.11376392408331817	9100	Metabolism  |  Amino acid metabolism
+9101	0.1056747694024264	9100	Metabolism  |  Carbohydrate metabolism
+9106	0.04725477537570606	9100	Metabolism  |  Metabolism of other amino acids
+9102	0.04368658233659524	9100	Metabolism  |  Energy metabolism
+9108	0.031993321876	9100	Metabolism  |  Metabolism of cofactors and vitamins
+9131	0.031568115437666674	9130	Environmental Information Processing  |  Membrane transport
+9104	0.02573114828576191	9100	Metabolism  |  Nucleotide metabolism
+9123	0.023789450501999997	9120	Genetic Information Processing  |  Folding, sorting and degradation
+9132	0.020679194808666666	9130	Environmental Information Processing  |  Signal transduction
+9142	0.015690151705833336	9140	Cellular Processes  |  Cell motility
+9121	0.0136980235	9120	Genetic Information Processing  |  Transcription
+9175	0.011385257921666666	9160	Human Diseases  |  Drug resistance: antimicrobial
+9145	0.010553928642666667	9140	Cellular Processes  |  Cellular community - prokaryotes
+9110	0.010304175844428571	9100	Metabolism  |  Biosynthesis of other secondary metabolites
+9103	0.008375488243939395	9100	Metabolism  |  Lipid metabolism
+9107	0.006304210537833334	9100	Metabolism  |  Glycan biosynthesis and metabolism
+9124	0.00415461579	9120	Genetic Information Processing  |  Replication and repair
+9109	0.0030399153150454552	9100	Metabolism  |  Metabolism of terpenoids and polyketides
+9111	0.0014535013750454546	9100	Metabolism  |  Xenobiotics biodegradation and metabolism
+9125	0.000141228	9120	Genetic Information Processing  |  Information processing in viruses
