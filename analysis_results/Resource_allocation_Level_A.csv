@@ -1,9 +1,7 @@
-Pathway	mass fraction	name
-unmapped (no kid)	0.040855366884999994	unmapped (no kid)
-kid mapped (not Pathway of Brite)	0.049537929775	kid mapped (not Pathway of Brite)
-Brite Hierarhies mapped (not Pathway)	0.20028882599387	Brite Hierarhies mapped (not Pathway)
-9100	0.3975818126761	Metabolism
-9120	0.220299785852	Genetic Information Processing
-9130	0.052247310246333334	Environmental Information Processing
-9140	0.026244080348499996	Cellular Processes
-9160	0.011385257921666666	Human Diseases
+Pathway	mass fraction	name	colors
+unmapped (no kid)	0.040855366884999994	unmapped (no kid)	black
+kid mapped (not Pathway)	0.24982675576886998	kid mapped (not Pathway)	grey
+9100	0.39810524538776665	Metabolism	yellow
+9120	0.220441013852	Genetic Information Processing	red
+9130	0.06109510873633333	Environmental Information Processing	limegreen
+9140	0.026481913208499998	Cellular Processes	plum

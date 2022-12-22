@@ -1,0 +1,39 @@
+Category	mass fraction	Level B	Level C	Pathway name	colors
+unmapped (no kid)	0.040855366884999994	unmapped (no kid)	unmapped (no kid)	unmapped (no kid)  |  N/A	black
+kid mapped (not Brite)	0.3374997599316	kid mapped (not Brite)	kid mapped (not Brite)	kid mapped (not Brite)  |  N/A	grey
+3011	0.15482231748	9182	3011	Protein families: genetic information processing  |  Ribosome [BR:eco03011]	red
+2000	0.08009773252868667	9183	2000	Protein families: signaling and cellular processes  |  Transporters [BR:eco02000]	limegreen
+4147	0.06676016542333332	9183	4147	Protein families: signaling and cellular processes  |  Exosome [BR:eco04147]	limegreen
+3012	0.04063484788	9182	3012	Protein families: genetic information processing  |  Translation factors [BR:eco03012]	red
+1011	0.03597422122649999	9181	1011	Protein families: metabolism  |  Peptidoglycan biosynthesis and degradation proteins [BR:eco01011]	yellow
+1002	0.025335967064499997	9181	1002	Protein families: metabolism  |  Peptidases and inhibitors [BR:eco01002]	yellow
+1007	0.023702856675666666	9181	1007	Protein families: metabolism  |  Amino acid related enzymes [BR:eco01007]	yellow
+3016	0.021961893897666666	9182	3016	Protein families: genetic information processing  |  Transfer RNA biogenesis [BR:eco03016]	red
+3110	0.019791178764333332	9182	3110	Protein families: genetic information processing  |  Chaperones and folding catalysts [BR:eco03110]	red
+2035	0.017460388138333335	9183	2035	Protein families: signaling and cellular processes  |  Bacterial motility proteins [BR:eco02035]	limegreen
+3400	0.017203854208666665	9182	3400	Protein families: genetic information processing  |  DNA repair and recombination proteins [BR:eco03400]	red
+3019	0.012116760729999999	9182	3019	Protein families: genetic information processing  |  Messenger RNA biogenesis [BR:eco03019]	red
+4131	0.01165069025	9182	4131	Protein families: genetic information processing  |  Membrane trafficking [BR:eco04131]	red
+3021	0.011402705956666665	9182	3021	Protein families: genetic information processing  |  Transcription machinery [BR:eco03021]	red
+194	0.0112374913	9181	194	Protein families: metabolism  |  Photosynthesis proteins [BR:eco00194]	yellow
+3000	0.010595983768333334	9182	3000	Protein families: genetic information processing  |  Transcription factors [BR:eco03000]	red
+3036	0.010221153036666666	9182	3036	Protein families: genetic information processing  |  Chromosome and associated proteins [BR:eco03036]	red
+3009	0.009631081653333333	9182	3009	Protein families: genetic information processing  |  Ribosome biogenesis [BR:eco03009]	red
+1504	0.007410508961516667	9183	1504	Protein families: signaling and cellular processes  |  Antimicrobial resistance genes [BR:eco01504]	limegreen
+1004	0.00689734897	9181	1004	Protein families: metabolism  |  Lipid biosynthesis proteins [BR:eco01004]	yellow
+2044	0.006120791261666667	9183	2044	Protein families: signaling and cellular processes  |  Secretion system [BR:eco02044]	limegreen
+1005	0.00439356898	9181	1005	Protein families: metabolism  |  Lipopolysaccharide biosynthesis proteins [BR:eco01005]	yellow
+3032	0.003958571466666666	9182	3032	Protein families: genetic information processing  |  DNA replication proteins [BR:eco03032]	red
+2048	0.0037093435589999994	9183	2048	Protein families: signaling and cellular processes  |  Prokaryotic defense system [BR:eco02048]	limegreen
+2022	0.0034439428223333336	9183	2022	Protein families: signaling and cellular processes  |  Two-component system [BR:eco02022]	limegreen
+4812	0.0010176564616666665	9183	4812	Protein families: signaling and cellular processes  |  Cytoskeleton proteins [BR:eco04812]	limegreen
+1009	0.00075799015	9181	1009	Protein families: metabolism  |  Protein phosphatases and associated proteins [BR:eco01009]	yellow
+1003	0.00050606164	9181	1003	Protein families: metabolism  |  Glycosyltransferases [BR:eco01003]	yellow
+1001	0.0004994190363333333	9181	1001	Protein families: metabolism  |  Protein kinases [BR:eco01001]	yellow
+1006	0.000279206755	9181	1006	Protein families: metabolism  |  Prenyltransferases [BR:eco01006]	yellow
+3051	0.0002457268	9182	3051	Protein families: genetic information processing  |  Proteasome [BR:eco03051]	red
+1008	0.000131180885	9181	1008	Protein families: metabolism  |  Polyketide biosynthesis proteins [BR:eco01008]	yellow
+537	9.301068e-05	9183	537	Protein families: signaling and cellular processes  |  Glycosylphosphatidylinositol (GPI)-anchored proteins [BR:eco00537]	limegreen
+2042	1.962447e-05	9183	2042	Protein families: signaling and cellular processes  |  Bacterial toxins [BR:eco02042]	limegreen
+3100	0.0	9184	3100	RNA family  |  Non-coding RNAs [BR:eco03100]	plum
+3200	0.0	9185	3200	Viral protein families  |  Viral proteins [BR:eco03200]	skyblue

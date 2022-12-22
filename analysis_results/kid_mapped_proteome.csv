@@ -1,5 +1,8 @@
 index	fraction
-KEGG Pathway mapped	0.7077582470446
-Brite Hierarhies mapped (not Pathway)	0.20028882599387
-kid mapped (not Pathway of Brite)	0.049537929775
-unmapped (no kid)	0.040855366884999994
+KEGG Pathways	0.7061232811845999
+KEGG Pathways extended	0.7077582470446
+kid NOT KEGG Pathways	0.24982675576886998
+Unmapped	0.040855366884999994
+Brite Hierarhies	0.62008524288187
+kid NOT Brite Hierarhies	0.3374997599316
+Unmapped b	0.040855366884999994
